@@ -1,0 +1,14 @@
+# Database files (rebuilt from the data, not committed)
+*.duckdb
+*.wal
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Kept out of the repo until the analysis is done
+answer_key.md
