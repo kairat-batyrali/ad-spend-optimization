@@ -1,0 +1,230 @@
+campaign_id,campaign_name,channel,region,language,creative_type,objective,start_date,end_date
+1001,GS_ON_20240101_Text,Google Search,Ontario,EN,Text,Conversions,2024-01-01,2024-02-11
+1002,GS_QC_FR_20240101_Text,Google Search,Quebec,FR,Text,Conversions,2024-01-01,2024-02-11
+1003,GS_BC_20240101_Text,Google Search,British Columbia,EN,Text,Conversions,2024-01-01,2024-02-11
+1004,GS_AB_20240101_Text,Google Search,Alberta,EN,Text,Conversions,2024-01-01,2024-03-10
+1005,GS_ATL_20240101_Text,Google Search,Atlantic,EN,Text,Conversions,2024-01-01,2024-02-25
+1006,META_ON_20240101_Video,Meta,Ontario,EN,Video,Conversions,2024-01-01,2024-03-31
+1007,META_QC_EN_20240101_Video,Meta,Quebec,EN,Video,Conversions,2024-01-01,2024-03-03
+1008,META_BC_20240101_Image,Meta,British Columbia,EN,Image,Conversions,2024-01-01,2024-03-17
+1009,META_AB_20240101_Image,Meta,Alberta,EN,Image,Conversions,2024-01-01,2024-02-11
+1010,META_ATL_20240101_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2024-01-01,2024-02-25
+1011,TT_ON_20240101_Video,TikTok,Ontario,EN,Video,Conversions,2024-01-01,2024-03-10
+1012,TT_QC_EN_20240101_Video,TikTok,Quebec,EN,Video,Conversions,2024-01-01,2024-02-25
+1013,TT_BC_20240101_Video,TikTok,British Columbia,EN,Video,Conversions,2024-01-01,2024-02-18
+1014,TT_AB_20240101_Video,TikTok,Alberta,EN,Video,Conversions,2024-01-01,2024-03-03
+1015,TT_ATL_20240101_Video,TikTok,Atlantic,EN,Video,Conversions,2024-01-01,2024-02-11
+1016,YT_ON_20240101_Video,YouTube,Ontario,EN,Video,Awareness,2024-01-01,2024-02-11
+1017,YT_QC_EN_20240101_Video,YouTube,Quebec,EN,Video,Awareness,2024-01-01,2024-02-18
+1018,YT_BC_20240101_Video,YouTube,British Columbia,EN,Video,Awareness,2024-01-01,2024-03-10
+1019,YT_AB_20240101_Video,YouTube,Alberta,EN,Video,Awareness,2024-01-01,2024-03-24
+1020,YT_ATL_20240101_Video,YouTube,Atlantic,EN,Video,Awareness,2024-01-01,2024-03-24
+1021,GS_ON_20240212_Text,Google Search,Ontario,EN,Text,Conversions,2024-02-12,2024-03-24
+1022,GS_QC_FR_20240212_Text,Google Search,Quebec,FR,Text,Conversions,2024-02-12,2024-03-24
+1023,GS_BC_20240212_Text,Google Search,British Columbia,EN,Text,Conversions,2024-02-12,2024-04-28
+1024,TT_ATL_20240212_Video,TikTok,Atlantic,EN,Video,Conversions,2024-02-12,2024-04-21
+1025,YT_ON_20240212_Video,YouTube,Ontario,EN,Video,Awareness,2024-02-12,2024-03-24
+1026,META_AB_20240219_Video,Meta,Alberta,EN,Video,Conversions,2024-02-19,2024-04-07
+1027,YT_QC_FR_20240219_Video,YouTube,Quebec,FR,Video,Awareness,2024-02-19,2024-04-21
+1028,GS_ATL_20240226_Text,Google Search,Atlantic,EN,Text,Conversions,2024-02-26,2024-05-12
+1029,META_ATL_20240226_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2024-02-26,2024-05-05
+1030,TT_QC_EN_20240226_Video,TikTok,Quebec,EN,Video,Conversions,2024-02-26,2024-04-28
+1031,TT_BC_20240226_Video,TikTok,British Columbia,EN,Video,Conversions,2024-02-26,2024-04-14
+1032,GS_AB_20240311_Text,Google Search,Alberta,EN,Text,Conversions,2024-03-11,2024-04-28
+1033,META_QC_FR_20240311_Video,Meta,Quebec,FR,Video,Conversions,2024-03-11,2024-05-19
+1034,TT_ON_20240311_Video,TikTok,Ontario,EN,Video,Conversions,2024-03-11,2024-04-28
+1035,TT_AB_20240311_Video,TikTok,Alberta,EN,Video,Conversions,2024-03-11,2024-05-26
+1036,YT_BC_20240311_Video,YouTube,British Columbia,EN,Video,Awareness,2024-03-11,2024-04-28
+1037,META_BC_20240318_Video,Meta,British Columbia,EN,Video,Conversions,2024-03-18,2024-05-12
+1038,YT_AB_20240325_Video,YouTube,Alberta,EN,Video,Awareness,2024-03-25,2024-06-02
+1039,YT_ATL_20240325_Video,YouTube,Atlantic,EN,Video,Awareness,2024-03-25,2024-05-26
+1040,GS_ON_20240401_Text,Google Search,Ontario,EN,Text,Conversions,2024-04-01,2024-05-26
+1041,GS_QC_EN_20240401_Text,Google Search,Quebec,EN,Text,Conversions,2024-04-01,2024-06-02
+1042,META_ON_20240401_Image,Meta,Ontario,EN,Image,Conversions,2024-04-01,2024-05-26
+1043,YT_ON_20240401_Video,YouTube,Ontario,EN,Video,Awareness,2024-04-01,2024-05-12
+1044,META_AB_20240408_Carousel,Meta,Alberta,EN,Carousel,Conversions,2024-04-08,2024-05-19
+1045,TT_BC_20240415_Video,TikTok,British Columbia,EN,Video,Conversions,2024-04-15,2024-05-26
+1046,TT_ATL_20240422_Video,TikTok,Atlantic,EN,Video,Conversions,2024-04-22,2024-06-16
+1047,YT_QC_EN_20240422_Video,YouTube,Quebec,EN,Video,Awareness,2024-04-22,2024-06-23
+1048,GS_BC_20240429_Text,Google Search,British Columbia,EN,Text,Conversions,2024-04-29,2024-07-21
+1049,TT_ON_20240429_Video,TikTok,Ontario,EN,Video,Conversions,2024-04-29,2024-07-21
+1050,GS_AB_20240506_Text,Google Search,Alberta,EN,Text,Conversions,2024-05-06,2024-07-14
+1051,TT_QC_EN_20240506_Video,TikTok,Quebec,EN,Video,Conversions,2024-05-06,2024-06-30
+1052,YT_BC_20240506_Video,YouTube,British Columbia,EN,Video,Awareness,2024-05-06,2024-06-16
+1053,GS_ATL_20240513_Text,Google Search,Atlantic,EN,Text,Conversions,2024-05-13,2024-07-07
+1054,META_BC_20240513_Carousel,Meta,British Columbia,EN,Carousel,Conversions,2024-05-13,2024-07-21
+1055,META_ATL_20240513_Video,Meta,Atlantic,EN,Video,Conversions,2024-05-13,2024-08-18
+1056,META_QC_FR_20240520_Video,Meta,Quebec,FR,Video,Conversions,2024-05-20,2024-07-21
+1057,META_AB_20240520_Image,Meta,Alberta,EN,Image,Conversions,2024-05-20,2024-07-07
+1058,YT_ON_20240520_Video,YouTube,Ontario,EN,Video,Awareness,2024-05-20,2024-07-07
+1059,GS_ON_20240527_Text,Google Search,Ontario,EN,Text,Conversions,2024-05-27,2024-08-18
+1060,META_ON_20240527_Video,Meta,Ontario,EN,Video,Conversions,2024-05-27,2024-07-21
+1061,TT_AB_20240527_Video,TikTok,Alberta,EN,Video,Conversions,2024-05-27,2024-07-21
+1062,YT_ATL_20240527_Video,YouTube,Atlantic,EN,Video,Awareness,2024-05-27,2024-08-11
+1063,GS_QC_FR_20240603_Text,Google Search,Quebec,FR,Text,Conversions,2024-06-03,2024-07-28
+1064,TT_BC_20240603_Video,TikTok,British Columbia,EN,Video,Conversions,2024-06-03,2024-07-28
+1065,YT_AB_20240603_Video,YouTube,Alberta,EN,Video,Awareness,2024-06-03,2024-07-21
+1066,TT_ATL_20240617_Video,TikTok,Atlantic,EN,Video,Conversions,2024-06-17,2024-08-18
+1067,YT_BC_20240617_Video,YouTube,British Columbia,EN,Video,Awareness,2024-06-17,2024-09-01
+1068,YT_QC_FR_20240624_Video,YouTube,Quebec,FR,Video,Awareness,2024-06-24,2024-08-04
+1069,TT_QC_EN_20240701_Video,TikTok,Quebec,EN,Video,Conversions,2024-07-01,2024-08-18
+1070,GS_ATL_20240708_Text,Google Search,Atlantic,EN,Text,Conversions,2024-07-08,2024-09-29
+1071,META_AB_20240708_Video,Meta,Alberta,EN,Video,Conversions,2024-07-08,2024-08-25
+1072,YT_ON_20240708_Video,YouTube,Ontario,EN,Video,Awareness,2024-07-08,2024-08-18
+1073,GS_AB_20240715_Text,Google Search,Alberta,EN,Text,Conversions,2024-07-15,2024-10-06
+1074,GS_BC_20240722_Text,Google Search,British Columbia,EN,Text,Conversions,2024-07-22,2024-10-13
+1075,META_ON_20240722_Carousel,Meta,Ontario,EN,Carousel,Conversions,2024-07-22,2024-09-01
+1076,META_QC_EN_20240722_Video,Meta,Quebec,EN,Video,Conversions,2024-07-22,2024-09-08
+1077,META_BC_20240722_Video,Meta,British Columbia,EN,Video,Conversions,2024-07-22,2024-10-20
+1078,TT_ON_20240722_Video,TikTok,Ontario,EN,Video,Conversions,2024-07-22,2024-09-29
+1079,TT_AB_20240722_Video,TikTok,Alberta,EN,Video,Conversions,2024-07-22,2024-09-22
+1080,YT_AB_20240722_Video,YouTube,Alberta,EN,Video,Awareness,2024-07-22,2024-09-08
+1081,TT_BC_20240729_Video,TikTok,British Columbia,EN,Video,Conversions,2024-07-29,2024-09-08
+1082,GS_QC_EN_20240805_Text,Google Search,Quebec,EN,Text,Conversions,2024-08-05,2024-10-20
+1083,YT_QC_FR_20240812_Video,YouTube,Quebec,FR,Video,Awareness,2024-08-12,2024-10-13
+1084,YT_ATL_20240812_Video,YouTube,Atlantic,EN,Video,Awareness,2024-08-12,2024-10-13
+1085,TT_ATL_20240819_Video,TikTok,Atlantic,EN,Video,Conversions,2024-08-19,2024-10-06
+1086,GS_ON_20240826_Text,Google Search,Ontario,EN,Text,Conversions,2024-08-26,2024-11-17
+1087,META_ATL_20240826_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2024-08-26,2024-10-13
+1088,TT_QC_FR_20240826_Video,TikTok,Quebec,FR,Video,Conversions,2024-08-26,2024-11-03
+1089,YT_ON_20240826_Video,YouTube,Ontario,EN,Video,Awareness,2024-08-26,2024-11-10
+1090,META_ON_20240902_Carousel,Meta,Ontario,EN,Carousel,Conversions,2024-09-02,2024-11-03
+1091,META_AB_20240902_Carousel,Meta,Alberta,EN,Carousel,Conversions,2024-09-02,2024-11-17
+1092,YT_BC_20240902_Video,YouTube,British Columbia,EN,Video,Awareness,2024-09-02,2024-11-24
+1093,TT_BC_20240909_Video,TikTok,British Columbia,EN,Video,Conversions,2024-09-09,2024-10-27
+1094,YT_AB_20240909_Video,YouTube,Alberta,EN,Video,Awareness,2024-09-09,2024-11-17
+1095,META_QC_EN_20240916_Image,Meta,Quebec,EN,Image,Conversions,2024-09-16,2024-10-27
+1096,TT_AB_20240923_Video,TikTok,Alberta,EN,Video,Conversions,2024-09-23,2024-12-01
+1097,GS_ATL_20240930_Text,Google Search,Atlantic,EN,Text,Conversions,2024-09-30,2024-11-10
+1098,TT_ON_20240930_Video,TikTok,Ontario,EN,Video,Conversions,2024-09-30,2024-11-24
+1099,GS_AB_20241007_Text,Google Search,Alberta,EN,Text,Conversions,2024-10-07,2024-12-08
+1100,GS_BC_20241014_Text,Google Search,British Columbia,EN,Text,Conversions,2024-10-14,2024-12-15
+1101,META_ATL_20241014_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2024-10-14,2025-01-19
+1102,TT_ATL_20241014_Video,TikTok,Atlantic,EN,Video,Conversions,2024-10-14,2024-11-24
+1103,YT_QC_FR_20241014_Video,YouTube,Quebec,FR,Video,Awareness,2024-10-14,2024-12-08
+1104,YT_ATL_20241014_Video,YouTube,Atlantic,EN,Video,Awareness,2024-10-14,2025-01-05
+1105,GS_QC_FR_20241021_Text,Google Search,Quebec,FR,Text,Conversions,2024-10-21,2024-12-15
+1106,META_BC_20241021_Image,Meta,British Columbia,EN,Image,Conversions,2024-10-21,2024-12-22
+1107,META_QC_EN_20241028_Video,Meta,Quebec,EN,Video,Conversions,2024-10-28,2025-01-05
+1108,TT_BC_20241028_Video,TikTok,British Columbia,EN,Video,Conversions,2024-10-28,2025-01-19
+1109,META_ON_20241104_Video,Meta,Ontario,EN,Video,Conversions,2024-11-04,2024-12-29
+1110,TT_QC_EN_20241104_Video,TikTok,Quebec,EN,Video,Conversions,2024-11-04,2025-01-12
+1111,GS_ATL_20241111_Text,Google Search,Atlantic,EN,Text,Conversions,2024-11-11,2024-12-22
+1112,META_AB_20241118_Carousel,Meta,Alberta,EN,Carousel,Conversions,2024-11-18,2025-01-26
+1113,YT_ON_20241118_Video,YouTube,Ontario,EN,Video,Awareness,2024-11-18,2025-01-12
+1114,GS_ON_20241125_Text,Google Search,Ontario,EN,Text,Conversions,2024-11-25,2025-01-26
+1115,TT_ON_20241125_Video,TikTok,Ontario,EN,Video,Conversions,2024-11-25,2025-01-05
+1116,TT_ATL_20241125_Video,TikTok,Atlantic,EN,Video,Conversions,2024-11-25,2025-02-02
+1117,YT_BC_20241125_Video,YouTube,British Columbia,EN,Video,Awareness,2024-11-25,2025-01-05
+1118,YT_AB_20241125_Video,YouTube,Alberta,EN,Video,Awareness,2024-11-25,2025-01-12
+1119,GS_AB_20241209_Text,Google Search,Alberta,EN,Text,Conversions,2024-12-09,2025-03-02
+1120,TT_AB_20241209_Video,TikTok,Alberta,EN,Video,Conversions,2024-12-09,2025-02-16
+1121,GS_QC_EN_20241216_Text,Google Search,Quebec,EN,Text,Conversions,2024-12-16,2025-01-26
+1122,YT_QC_FR_20241216_Video,YouTube,Quebec,FR,Video,Awareness,2024-12-16,2025-03-02
+1123,GS_BC_20241223_Text,Google Search,British Columbia,EN,Text,Conversions,2024-12-23,2025-02-23
+1124,META_BC_20241223_Video,Meta,British Columbia,EN,Video,Conversions,2024-12-23,2025-03-02
+1125,GS_ATL_20241230_Text,Google Search,Atlantic,EN,Text,Conversions,2024-12-30,2025-02-16
+1126,META_ON_20241230_Video,Meta,Ontario,EN,Video,Conversions,2024-12-30,2025-02-09
+1127,YT_BC_20250106_Video,YouTube,British Columbia,EN,Video,Awareness,2025-01-06,2025-03-30
+1128,META_QC_EN_20250113_Carousel,Meta,Quebec,EN,Carousel,Conversions,2025-01-13,2025-03-23
+1129,TT_ON_20250113_Video,TikTok,Ontario,EN,Video,Conversions,2025-01-13,2025-03-16
+1130,TT_QC_FR_20250113_Video,TikTok,Quebec,FR,Video,Conversions,2025-01-13,2025-04-06
+1131,YT_ON_20250113_Video,YouTube,Ontario,EN,Video,Awareness,2025-01-13,2025-03-23
+1132,YT_AB_20250113_Video,YouTube,Alberta,EN,Video,Awareness,2025-01-13,2025-03-09
+1133,YT_ATL_20250113_Video,YouTube,Atlantic,EN,Video,Awareness,2025-01-13,2025-03-09
+1134,META_ATL_20250120_Video,Meta,Atlantic,EN,Video,Conversions,2025-01-20,2025-03-09
+1135,META_AB_20250127_Carousel,Meta,Alberta,EN,Carousel,Conversions,2025-01-27,2025-05-04
+1136,TT_BC_20250127_Video,TikTok,British Columbia,EN,Video,Conversions,2025-01-27,2025-04-13
+1137,GS_ON_20250203_Text,Google Search,Ontario,EN,Text,Conversions,2025-02-03,2025-04-27
+1138,GS_QC_EN_20250203_Text,Google Search,Quebec,EN,Text,Conversions,2025-02-03,2025-04-06
+1139,META_ON_20250210_Video,Meta,Ontario,EN,Video,Conversions,2025-02-10,2025-03-23
+1140,TT_ATL_20250210_Video,TikTok,Atlantic,EN,Video,Conversions,2025-02-10,2025-05-04
+1141,GS_ATL_20250217_Text,Google Search,Atlantic,EN,Text,Conversions,2025-02-17,2025-04-13
+1142,TT_AB_20250217_Video,TikTok,Alberta,EN,Video,Conversions,2025-02-17,2025-05-11
+1143,GS_BC_20250303_Text,Google Search,British Columbia,EN,Text,Conversions,2025-03-03,2025-04-20
+1144,GS_AB_20250303_Text,Google Search,Alberta,EN,Text,Conversions,2025-03-03,2025-05-25
+1145,META_BC_20250303_Video,Meta,British Columbia,EN,Video,Conversions,2025-03-03,2025-05-11
+1146,META_ATL_20250310_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2025-03-10,2025-06-15
+1147,YT_QC_EN_20250310_Video,YouTube,Quebec,EN,Video,Awareness,2025-03-10,2025-04-27
+1148,YT_AB_20250310_Video,YouTube,Alberta,EN,Video,Awareness,2025-03-10,2025-05-18
+1149,YT_ATL_20250310_Video,YouTube,Atlantic,EN,Video,Awareness,2025-03-10,2025-04-20
+1150,TT_ON_20250317_Video,TikTok,Ontario,EN,Video,Conversions,2025-03-17,2025-06-08
+1151,META_ON_20250324_Image,Meta,Ontario,EN,Image,Conversions,2025-03-24,2025-05-18
+1152,META_QC_EN_20250331_Image,Meta,Quebec,EN,Image,Conversions,2025-03-31,2025-06-22
+1153,YT_ON_20250331_Video,YouTube,Ontario,EN,Video,Awareness,2025-03-31,2025-06-08
+1154,YT_BC_20250331_Video,YouTube,British Columbia,EN,Video,Awareness,2025-03-31,2025-05-11
+1155,GS_QC_EN_20250407_Text,Google Search,Quebec,EN,Text,Conversions,2025-04-07,2025-05-25
+1156,GS_ATL_20250414_Text,Google Search,Atlantic,EN,Text,Conversions,2025-04-14,2025-06-22
+1157,TT_QC_EN_20250414_Video,TikTok,Quebec,EN,Video,Conversions,2025-04-14,2025-06-08
+1158,TT_BC_20250414_Video,TikTok,British Columbia,EN,Video,Conversions,2025-04-14,2025-07-06
+1159,YT_ATL_20250421_Video,YouTube,Atlantic,EN,Video,Awareness,2025-04-21,2025-07-06
+1160,GS_BC_20250428_Text,Google Search,British Columbia,EN,Text,Conversions,2025-04-28,2025-06-08
+1161,YT_QC_FR_20250428_Video,YouTube,Quebec,FR,Video,Awareness,2025-04-28,2025-06-22
+1162,GS_ON_20250505_Text,Google Search,Ontario,EN,Text,Conversions,2025-05-05,2025-07-13
+1163,TT_ATL_20250505_Video,TikTok,Atlantic,EN,Video,Conversions,2025-05-05,2025-06-22
+1164,META_AB_20250512_Carousel,Meta,Alberta,EN,Carousel,Conversions,2025-05-12,2025-06-29
+1165,TT_AB_20250512_Video,TikTok,Alberta,EN,Video,Conversions,2025-05-12,2025-07-27
+1166,META_ON_20250519_Carousel,Meta,Ontario,EN,Carousel,Conversions,2025-05-19,2025-06-29
+1167,META_BC_20250519_Video,Meta,British Columbia,EN,Video,Conversions,2025-05-19,2025-07-06
+1168,YT_BC_20250519_Video,YouTube,British Columbia,EN,Video,Awareness,2025-05-19,2025-08-03
+1169,YT_AB_20250519_Video,YouTube,Alberta,EN,Video,Awareness,2025-05-19,2025-08-03
+1170,GS_QC_EN_20250526_Text,Google Search,Quebec,EN,Text,Conversions,2025-05-26,2025-08-10
+1171,GS_AB_20250526_Text,Google Search,Alberta,EN,Text,Conversions,2025-05-26,2025-07-20
+1172,GS_BC_20250609_Text,Google Search,British Columbia,EN,Text,Conversions,2025-06-09,2025-08-10
+1173,TT_ON_20250609_Video,TikTok,Ontario,EN,Video,Conversions,2025-06-09,2025-08-31
+1174,TT_QC_FR_20250616_Video,TikTok,Quebec,FR,Video,Conversions,2025-06-16,2025-08-24
+1175,YT_ON_20250616_Video,YouTube,Ontario,EN,Video,Awareness,2025-06-16,2025-08-24
+1176,GS_ATL_20250623_Text,Google Search,Atlantic,EN,Text,Conversions,2025-06-23,2025-08-03
+1177,META_QC_FR_20250623_Carousel,Meta,Quebec,FR,Carousel,Conversions,2025-06-23,2025-08-03
+1178,META_ATL_20250623_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2025-06-23,2025-09-21
+1179,TT_ATL_20250623_Video,TikTok,Atlantic,EN,Video,Conversions,2025-06-23,2025-09-14
+1180,YT_QC_FR_20250623_Video,YouTube,Quebec,FR,Video,Awareness,2025-06-23,2025-08-17
+1181,META_ON_20250630_Image,Meta,Ontario,EN,Image,Conversions,2025-06-30,2025-09-07
+1182,META_BC_20250707_Carousel,Meta,British Columbia,EN,Carousel,Conversions,2025-07-07,2025-09-21
+1183,META_AB_20250707_Image,Meta,Alberta,EN,Image,Conversions,2025-07-07,2025-10-05
+1184,TT_BC_20250707_Video,TikTok,British Columbia,EN,Video,Conversions,2025-07-07,2025-09-28
+1185,YT_ATL_20250714_Video,YouTube,Atlantic,EN,Video,Awareness,2025-07-14,2025-09-14
+1186,GS_ON_20250721_Text,Google Search,Ontario,EN,Text,Conversions,2025-07-21,2025-09-21
+1187,GS_AB_20250721_Text,Google Search,Alberta,EN,Text,Conversions,2025-07-21,2025-09-21
+1188,GS_ATL_20250804_Text,Google Search,Atlantic,EN,Text,Conversions,2025-08-04,2025-10-26
+1189,META_QC_FR_20250804_Image,Meta,Quebec,FR,Image,Conversions,2025-08-04,2025-11-09
+1190,TT_AB_20250804_Video,TikTok,Alberta,EN,Video,Conversions,2025-08-04,2025-10-19
+1191,YT_AB_20250804_Video,YouTube,Alberta,EN,Video,Awareness,2025-08-04,2025-10-26
+1192,GS_QC_FR_20250811_Text,Google Search,Quebec,FR,Text,Conversions,2025-08-11,2025-10-19
+1193,GS_BC_20250811_Text,Google Search,British Columbia,EN,Text,Conversions,2025-08-11,2025-10-12
+1194,YT_BC_20250811_Video,YouTube,British Columbia,EN,Video,Awareness,2025-08-11,2025-10-26
+1195,YT_ON_20250825_Video,YouTube,Ontario,EN,Video,Awareness,2025-08-25,2025-10-19
+1196,YT_QC_EN_20250825_Video,YouTube,Quebec,EN,Video,Awareness,2025-08-25,2025-11-16
+1197,TT_ON_20250901_Video,TikTok,Ontario,EN,Video,Conversions,2025-09-01,2025-11-23
+1198,TT_QC_EN_20250901_Video,TikTok,Quebec,EN,Video,Conversions,2025-09-01,2025-11-23
+1199,META_ON_20250908_Video,Meta,Ontario,EN,Video,Conversions,2025-09-08,2025-11-09
+1200,TT_ATL_20250915_Video,TikTok,Atlantic,EN,Video,Conversions,2025-09-15,2025-11-16
+1201,YT_ATL_20250915_Video,YouTube,Atlantic,EN,Video,Awareness,2025-09-15,2025-11-30
+1202,GS_ON_20250922_Text,Google Search,Ontario,EN,Text,Conversions,2025-09-22,2025-11-09
+1203,META_ATL_20250922_Carousel,Meta,Atlantic,EN,Carousel,Conversions,2025-09-22,2025-11-16
+1204,GS_AB_20250929_Text,Google Search,Alberta,EN,Text,Conversions,2025-09-29,2025-12-14
+1205,META_BC_20250929_Video,Meta,British Columbia,EN,Video,Conversions,2025-09-29,2025-11-30
+1206,TT_BC_20250929_Video,TikTok,British Columbia,EN,Video,Conversions,2025-09-29,2025-11-23
+1207,META_AB_20251006_Image,Meta,Alberta,EN,Image,Conversions,2025-10-06,2025-12-21
+1208,GS_QC_FR_20251020_Text,Google Search,Quebec,FR,Text,Conversions,2025-10-20,2025-12-28
+1209,GS_BC_20251020_Text,Google Search,British Columbia,EN,Text,Conversions,2025-10-20,2025-12-14
+1210,TT_AB_20251020_Video,TikTok,Alberta,EN,Video,Conversions,2025-10-20,2025-12-28
+1211,YT_ON_20251020_Video,YouTube,Ontario,EN,Video,Awareness,2025-10-20,2025-12-14
+1212,GS_ATL_20251027_Text,Google Search,Atlantic,EN,Text,Conversions,2025-10-27,2025-12-28
+1213,YT_BC_20251027_Video,YouTube,British Columbia,EN,Video,Awareness,2025-10-27,2025-12-21
+1214,YT_AB_20251103_Video,YouTube,Alberta,EN,Video,Awareness,2025-11-03,2025-12-21
+1215,GS_ON_20251110_Text,Google Search,Ontario,EN,Text,Conversions,2025-11-10,2025-12-28
+1216,META_ON_20251110_Carousel,Meta,Ontario,EN,Carousel,Conversions,2025-11-10,2025-12-28
+1217,META_QC_EN_20251117_Image,Meta,Quebec,EN,Image,Conversions,2025-11-17,2025-12-28
+1218,META_ATL_20251117_Image,Meta,Atlantic,EN,Image,Conversions,2025-11-17,2025-12-28
+1219,TT_ATL_20251117_Video,TikTok,Atlantic,EN,Video,Conversions,2025-11-17,2025-12-28
+1220,TT_ON_20251124_Video,TikTok,Ontario,EN,Video,Conversions,2025-11-24,2025-12-28
+1221,TT_BC_20251124_Video,TikTok,British Columbia,EN,Video,Conversions,2025-11-24,2025-12-28
+1222,YT_QC_FR_20251124_Video,YouTube,Quebec,FR,Video,Awareness,2025-11-24,2025-12-28
+1223,TT_QC_EN_20251201_Video,TikTok,Quebec,EN,Video,Conversions,2025-12-01,2025-12-28
+1224,META_BC_20251208_Video,Meta,British Columbia,EN,Video,Conversions,2025-12-08,2025-12-28
+1225,YT_ATL_20251208_Video,YouTube,Atlantic,EN,Video,Awareness,2025-12-08,2025-12-28
+1226,GS_AB_20251215_Text,Google Search,Alberta,EN,Text,Conversions,2025-12-15,2025-12-28
+1227,YT_ON_20251215_Video,YouTube,Ontario,EN,Video,Awareness,2025-12-15,2025-12-28
+1228,GS_BC_20251222_Text,Google Search,British Columbia,EN,Text,Conversions,2025-12-22,2025-12-28
+1229,YT_BC_20251222_Video,YouTube,British Columbia,EN,Video,Awareness,2025-12-22,2025-12-28
