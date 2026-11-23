@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: mart_weekly_mmm
+    columns:
+      - name: week_start
+        data_tests: [unique, not_null]
+      - name: total_sales
+        data_tests: [not_null]
