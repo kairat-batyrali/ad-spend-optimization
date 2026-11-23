@@ -18,7 +18,7 @@ A retail client spent $2M on advertising last year across Google, Meta, TikTok, 
 
 ## Tools
 
-Python, DuckDB (SQL), pandas, NumPy, scikit-learn, statsmodels, Streamlit, Tableau Public, Git
+Python, DuckDB (SQL), dbt, pandas, NumPy, scikit-learn, statsmodels, Streamlit, Tableau Public, Git
 
 ## Progress so far
 
@@ -28,20 +28,30 @@ Python, DuckDB (SQL), pandas, NumPy, scikit-learn, statsmodels, Streamlit, Table
 - **Clean:** 0 orphan campaign IDs, no impossible values (negative spend, clicks above impressions), both weekly tables start on Monday.
 - `promotions` lists promo weeks only, so it must be LEFT JOINed to `weekly_sales` or non-promo weeks drop out.
 
+### Pipeline (dbt)
+- The SQL checks from the notebook now run as a dbt project ([dbt/](dbt/)) on DuckDB. Raw CSVs are read in place and never modified.
+- Staging models clean each table. `stg_daily_performance` removes the 14 exact-copy duplicate rows in campaign 1137.
+- 19 data tests cover uniqueness, nulls, valid channels, orphan campaign IDs, impossible values, and Monday-start weeks.
+- The duplicate check is set to warn on the raw data (14 rows, as expected) and must pass on staging.
+- `mart_weekly_mmm` is the MMM input table: one row per week (104), with sales, a promo flag, and spend by channel. Two tests confirm the joins lose and double nothing: total spend matches staging, and every sales week is kept.
+
+To rebuild: `pip install -r requirements.txt`, then `cd dbt` and `dbt build --profiles-dir .`
+
 ### ROAS and CPA by campaign
 - Computed as ratios of sums, then reproduced in pandas ([02_pandas_analysis.ipynb](notebooks/02_pandas_analysis.ipynb)) with a validated merge. The numbers match.
 - Campaign 1226 has the highest ROAS (4.34) on only $3.4k spend; campaign 1114 has a lower ROAS (2.97) but $184k revenue on $62k spend.
 - Average ROAS is not marginal ROAS, so this ranking alone can't say where to move budget. That's what the MMM is for.
 
 ### Next
-Roll daily data up to Monday-start weeks and join to sales and promotions, which gives the MMM's input table. Then channel-level ROAS.
+Channel-level ROAS from `mart_weekly_mmm`, then the marketing mix model.
 
 ## Roadmap
 
 - [x] Project setup
 - [x] Data generation
 - [x] SQL analysis: data quality checks, ROAS and CPA by campaign
-- [ ] Exploratory analysis (pandas): ROAS reproduced, trends next
+- [x] dbt pipeline: staging models, data tests, weekly MMM table
+- [ ] Exploratory analysis (pandas): ROAS reproduced, channel trends next
 - [ ] Marketing mix model
 - [ ] Streamlit app
 - [ ] Tableau dashboard
