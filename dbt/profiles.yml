@@ -1,0 +1,6 @@
+ad_spend:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../data/ads_dbt.duckdb

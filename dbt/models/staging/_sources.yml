@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: raw
+    description: Raw CSV exports, read in place and never modified.
+    meta:
+      external_location: "../data/{name}.csv"
+    tables:
+      - name: campaigns
+      - name: daily_performance
+      - name: weekly_sales
+      - name: promotions
